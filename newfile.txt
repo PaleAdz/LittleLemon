@@ -1,3 +1,2 @@
-Hello World :w
-:q
+Hello World 
 
